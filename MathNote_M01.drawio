@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:54:58.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lvG7zFIVyCEbVzqk_D37" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T11:05:00.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="v3OtDQ3cF4mOs1zE-jer" version="20.1.1" type="github">
   <diagram id="jAkjb9qOhjbaiIQoaHy9" name="Page-1">
     <mxGraphModel dx="10680" dy="7140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="qqJ_djHY32RG2-X8zSMV-31" value="\( \begin{array}{c}{\text{如果我的吉他只有一根弦，弦長為}}{\ }{\color{red}{l}} \\ {\text{彈弦之時會讓此弦每秒振動}}{\ }{\color{red}{f}}{\ }{\text{次}} \\ {\text{亦即發出頻率為}}{\ }{\color{red}{f}}{\ }{\text{Hz 的聲音}} \end{array} \)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=120;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" vertex="1" parent="1">
           <mxGeometry width="3000" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="qqJ_djHY32RG2-X8zSMV-32" value="\( \begin{array}{c}{\text{假設弦長為}}{\ }{\color{red}{l}}{\ }{\text{，頻率為}}{\ }{\color{red}{f}} \end{array} \)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=120;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2600" width="1600" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
