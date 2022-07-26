@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:26:28.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="C-RSWbe41sRbqgCbBAfi" version="20.1.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-26T09:36:17.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Dv4GX1n9tqeDQ0J6zrNs" version="20.1.4" type="github" pages="12">
   <diagram id="jAkjb9qOhjbaiIQoaHy9" name="Page-1">
     <mxGraphModel dx="768" dy="414" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
@@ -725,7 +725,7 @@
       <root>
         <mxCell id="JlGaK3brGIoGGhn7__oq-0" />
         <mxCell id="JlGaK3brGIoGGhn7__oq-1" parent="JlGaK3brGIoGGhn7__oq-0" />
-        <mxCell id="SkOqs82UHtWv5yeqJcNl-1" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=10;endFill=0;dashed=1;" edge="1" parent="JlGaK3brGIoGGhn7__oq-1">
+        <mxCell id="SkOqs82UHtWv5yeqJcNl-1" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=10;endFill=0;dashed=1;" parent="JlGaK3brGIoGGhn7__oq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1500" y="2500" as="sourcePoint" />
             <mxPoint x="2600" y="2500" as="targetPoint" />
@@ -1091,7 +1091,7 @@
       <root>
         <mxCell id="KpSDxyd09Yt-WlC9O6CQ-0" />
         <mxCell id="KpSDxyd09Yt-WlC9O6CQ-1" parent="KpSDxyd09Yt-WlC9O6CQ-0" />
-        <mxCell id="KpSDxyd09Yt-WlC9O6CQ-25" value="$$\begin{array}{c}{\text{如果把}}{\color{red}{\text{C4}}}{\text{與}}{\color{red}{\text{C5}}}{\text{的基音與泛音的頻率寫出來}}\\\\{\left\{\begin{array}{lcccccccc}{\text{C4}}&amp;amp;{:}&amp;amp;{f}&amp;amp;{2f}&amp;amp;{3f}&amp;amp;{4f}&amp;amp;{5f}&amp;amp;{6f}&amp;amp;{\cdots}\\{\text{C5}}&amp;amp;{:}&amp;amp;{}&amp;amp;{2f}&amp;amp;{}&amp;amp;{4f}&amp;amp;{}&amp;amp;{6f}&amp;amp;{\cdots}\end{array}\right.}\\{\text{會發現C4涵蓋了所有C5可能發出的頻率}}\\\\{\text{所以當樂器的C4與C5一起和聲時}}\\{\text{不會出現不協調的頻率}}\\{\text{而大腦也會有}}\\{\text{把這兩個音視為}}\\{\text{同一個音不同音色的傾向}}\\{\text{所以音名皆為}}{\color{red}{\text{C}}}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" vertex="1" parent="KpSDxyd09Yt-WlC9O6CQ-1">
+        <mxCell id="KpSDxyd09Yt-WlC9O6CQ-25" value="$$\begin{array}{c}{\text{如果把}}{\color{red}{\text{C4}}}{\text{與}}{\color{red}{\text{C5}}}{\text{的基音與泛音的頻率寫出來}}\\\\{\left\{\begin{array}{lcccccccc}{\text{C4}}&amp;amp;{:}&amp;amp;{f}&amp;amp;{2f}&amp;amp;{3f}&amp;amp;{4f}&amp;amp;{5f}&amp;amp;{6f}&amp;amp;{\cdots}\\{\text{C5}}&amp;amp;{:}&amp;amp;{}&amp;amp;{2f}&amp;amp;{}&amp;amp;{4f}&amp;amp;{}&amp;amp;{6f}&amp;amp;{\cdots}\end{array}\right.}\\{\text{會發現C4涵蓋了所有C5可能發出的頻率}}\\\\{\text{所以當樂器的C4與C5一起和聲時}}\\{\text{不會出現不協調的頻率}}\\{\text{而大腦也會有}}\\{\text{把這兩個音視為}}\\{\text{同一個音不同音色的傾向}}\\{\text{所以音名皆為}}{\color{red}{\text{C}}}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="KpSDxyd09Yt-WlC9O6CQ-1" vertex="1">
           <mxGeometry x="100" y="100" width="2800" height="2800" as="geometry" />
         </mxCell>
       </root>
@@ -1295,7 +1295,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-7" id="X9m01mfLlNjrpkgJEiIQ">
-    <mxGraphModel dx="10680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
         <mxCell id="mC-n7J2RNI1W_TPVYRE0-0" />
         <mxCell id="mC-n7J2RNI1W_TPVYRE0-1" parent="mC-n7J2RNI1W_TPVYRE0-0" />
@@ -1530,7 +1530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-9" id="1tVSEZJtmq6DoyxHN0vQ">
-    <mxGraphModel dx="10680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
         <mxCell id="unW5t15vaXfv90hLWCs8-0" />
         <mxCell id="unW5t15vaXfv90hLWCs8-1" parent="unW5t15vaXfv90hLWCs8-0" />
@@ -1783,7 +1783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-10" id="XlqP2Fr3ffQcmVIWEHwA">
-    <mxGraphModel dx="10680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
         <mxCell id="JqJf10x9RelWyuJLdtWr-0" />
         <mxCell id="JqJf10x9RelWyuJLdtWr-1" parent="JqJf10x9RelWyuJLdtWr-0" />
@@ -2316,6 +2316,17 @@
               <mxPoint x="861.728395" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-12" id="EiHPR0IZym4voH3g7jet">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+      <root>
+        <mxCell id="iDusyBnt3cHOW3fhjW7n-0" />
+        <mxCell id="iDusyBnt3cHOW3fhjW7n-1" parent="iDusyBnt3cHOW3fhjW7n-0" />
+        <mxCell id="iDusyBnt3cHOW3fhjW7n-2" value="$$\begin{array}{c}{\text{複習前述得出五聲音階的方式}}\\\begin{array}{cccccc}{\text{宮}} &amp;amp; {\text{C4}} &amp;amp; {=} &amp;amp; {f}\\{\text{徵}} &amp;amp; {\text{G4}} &amp;amp; {=} &amp;amp; {\frac{3}{2}\left( \text{C4} \right)} &amp;amp; {=} &amp;amp; {\frac{3}{2} f}\\{\text{商}} &amp;amp; {\text{D4}} &amp;amp; {=} &amp;amp; {\frac{1}{2}\left({\frac{3}{2}\left( \text{G4} \right)}\right)} &amp;amp; {=} &amp;amp; {\frac{9}{8} f}\\{\text{羽}} &amp;amp; {\text{A4}} &amp;amp; {=} &amp;amp; {\frac{3}{2}\left( \text{D4} \right)} &amp;amp; {=} &amp;amp; {\frac{27}{16} f}\\{\text{角}} &amp;amp; {\text{E4}} &amp;amp; {=} &amp;amp; {\frac{1}{2}\left({\frac{3}{2}\left( \text{A4} \right)}\right)} &amp;amp; {=} &amp;amp; {\frac{81}{64} f}\\\end{array}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" vertex="1" parent="iDusyBnt3cHOW3fhjW7n-1">
+          <mxGeometry x="100" y="100" width="2800" height="2800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
