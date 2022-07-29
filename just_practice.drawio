@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T16:20:09.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="hg_J3_mWXJxXptCsAGq4" type="github"><diagram id="fXhIQjONgX-q9JFXAyHs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-29T17:45:17.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MgAfs9uIzhYj2tes9zbO" version="20.2.2" type="github" pages="2">
+  <diagram id="fXhIQjONgX-q9JFXAyHs" name="Page-1">
+    <mxGraphModel dx="1864" dy="920" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-1" value="會痛" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="100" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-5" value="會痛" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-6" value="不痛" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="900" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-7" value="不痛" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="700" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-8" value="睡&lt;br&gt;死" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-9" value="睡&lt;br&gt;死" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-10" value="醒&lt;br&gt;來" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry y="700" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-11" value="醒&lt;br&gt;來" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="700" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;startSize=10;endSize=10;targetPerimeterSpacing=0;strokeWidth=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="50" as="sourcePoint" />
+            <mxPoint x="800" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;startSize=10;endSize=10;targetPerimeterSpacing=0;strokeWidth=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="950" as="sourcePoint" />
+            <mxPoint x="800" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;startSize=10;endSize=10;targetPerimeterSpacing=0;strokeWidth=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="250" as="sourcePoint" />
+            <mxPoint x="50" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;startSize=10;endSize=10;targetPerimeterSpacing=0;strokeWidth=10;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="250" as="sourcePoint" />
+            <mxPoint x="950" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#FFFF00;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="800" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#00FF00;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#0000FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#0000FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="800" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-28" value="Suppression" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-29" value="Delta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-30" value="Alpha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NVbA4PrGbCGcPxwx_2Bf-31" value="Beta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="700" width="400" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="fBwcT-i8-GeIDtnA_gD8">
+    <mxGraphModel dx="2071" dy="1149" grid="1" gridSize="100" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-0" />
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-1" parent="1-XaqEvDKH0prMGtn5Kz-0" />
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#404040;strokeColor=none;" vertex="1" parent="1-XaqEvDKH0prMGtn5Kz-1">
+          <mxGeometry x="100" y="100" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#808080;strokeColor=none;" vertex="1" parent="1-XaqEvDKH0prMGtn5Kz-1">
+          <mxGeometry x="100" y="200" width="800" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#C0C0C0;strokeColor=none;" vertex="1" parent="1-XaqEvDKH0prMGtn5Kz-1">
+          <mxGeometry x="500" y="400" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1-XaqEvDKH0prMGtn5Kz-1">
+          <mxGeometry x="100" y="500" width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1-XaqEvDKH0prMGtn5Kz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Noto Serif TC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;fontSize=50;" vertex="1" parent="1-XaqEvDKH0prMGtn5Kz-1">
+          <mxGeometry x="100" y="800" width="800" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
