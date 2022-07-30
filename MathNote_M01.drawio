@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T05:54:51.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9hyy066hCRYhH7EhyaJl" version="20.2.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-30T08:44:15.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yetY339i0UkPrqfR49hl" version="20.2.2" type="github" pages="18">
   <diagram id="jAkjb9qOhjbaiIQoaHy9" name="Page-1">
     <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
@@ -2391,8 +2391,80 @@
       <root>
         <mxCell id="QzwzH5JQvSHsVL7u-Cd5-0" />
         <mxCell id="QzwzH5JQvSHsVL7u-Cd5-1" parent="QzwzH5JQvSHsVL7u-Cd5-0" />
-        <mxCell id="QzwzH5JQvSHsVL7u-Cd5-7" value="$$ \begin{array}{c}{\text{這條弦長}}{\ }{\color{red}{l}}{\ }{\text{，頻率}}{\ }{\color{red}{f}}{\ }{\text{的弦，假設其音高稱為}}{\ }{\color{red}{\text{C4}}}\\ {\text{在彈奏時所產生的獨特音色可視為是由}}\\ {\text{不同振幅的}}{\color{red}{\text{泛音}}}{\text{們所組合而成的}} \end{array} $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" vertex="1" parent="QzwzH5JQvSHsVL7u-Cd5-1">
+        <mxCell id="QzwzH5JQvSHsVL7u-Cd5-7" value="$$ \begin{array}{c}{\text{這條弦長}}{\ }{\color{red}{l}}{\ }{\text{，頻率}}{\ }{\color{red}{f}}{\ }{\text{的弦，假設其音高稱為}}{\ }{\color{red}{\text{C4}}}\\ {\text{在彈奏時所產生的獨特音色可視為是由}}\\ {\text{不同振幅的}}{\color{red}{\text{泛音}}}{\text{們所組合而成的}} \end{array} $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
           <mxGeometry x="100" width="2800" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="niPmZzL3U-Xs9_htcvho-0" value="$${\text{E}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="2079.422863" y="2250" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IMDxkFbLBk8R_9Yf3f49-0" value="$${\text{F}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1750" y="2579.422863" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-0" value="$${\text{F} \sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1300" y="2700" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-1" value="$${\color{red}{\text{G}}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="850" y="2579.422863" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-2" value="$${\text{G} \sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="520.577137" y="2250" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-3" value="$${\text{A}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="400" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-4" value="$${\text{A} \sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="520.577137" y="1350" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-5" value="$${\text{B}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="850" y="1020.577137" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-6" value="$${\color{red}{\text{C}}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1300" y="900" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-7" value="$${\text{C} \sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1750" y="1020.577137" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vrGgVEZdITeGmichJkQ7-8" value="$${\text{D}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="2079.422863" y="1350" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wLD9kZSoNHe1qGPrKlWa-0" value="$${\text{D} \sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="2200" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk0M40pcVBm-yI7xMH3W-0" value="$${3}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="2000" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A9vEUgzYvhe9eJeeXFom-0" value="$${4}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1906.217783" y="2150" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0DDfRO-F-QxYG55dmZsY-0" value="$${5}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1650" y="2406.217783" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0DDfRO-F-QxYG55dmZsY-1" value="$${6}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1300" y="2500" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-0" value="$${\color{red}{7}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="950" y="2406.217783" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-1" value="$${8}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="693.782217" y="2150" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-2" value="$${9}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="600" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-3" value="$${10}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="693.782217" y="1450" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-4" value="$${11}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="950" y="1193.782217" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-5" value="$${\color{red}{12}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1300" y="1100" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-6" value="$${1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1650" y="1193.782217" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="A0Wk8oFXP-qZnqQo6Q2F-7" value="$${2}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+          <mxGeometry x="1906.217783" y="1450" width="400" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
