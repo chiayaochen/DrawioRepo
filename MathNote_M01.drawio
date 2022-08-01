@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T04:05:11.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="81tVYK58KgUtIIEOkL7K" version="20.2.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-08-01T04:20:48.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AwBxK7qoXGke-552OgZm" version="20.2.2" type="github" pages="18">
   <diagram id="jAkjb9qOhjbaiIQoaHy9" name="Page-1">
     <mxGraphModel dx="768" dy="414" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
@@ -2391,7 +2391,7 @@
       <root>
         <mxCell id="QzwzH5JQvSHsVL7u-Cd5-0" />
         <mxCell id="QzwzH5JQvSHsVL7u-Cd5-1" parent="QzwzH5JQvSHsVL7u-Cd5-0" />
-        <mxCell id="QzwzH5JQvSHsVL7u-Cd5-7" value="$$ \begin{array}{c}{\text{這條弦長}}{\ }{\color{red}{l}}{\ }{\text{，頻率}}{\ }{\color{red}{f}}{\ }{\text{的弦，假設其音高稱為}}{\ }{\color{red}{\text{C4}}}\\ {\text{在彈奏時所產生的獨特音色可視為是由}}\\ {\text{不同振幅的}}{\color{red}{\text{泛音}}}{\text{們所組合而成的}} \end{array} $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
+        <mxCell id="QzwzH5JQvSHsVL7u-Cd5-7" value="$$\begin{array}{c}{\text{如果把前述}}{\color{red}{12}}{\text{個音的頻率順時鐘排列}}\\{\text{會發現每個音的產生方式恰好相隔}}{\color{red}{7}}{\text{個}}{\color{red}{\text{半音}}}\\{\text{這種}}{\color{red}{\text{完全五度}}}{\text{的關係稱為}}{\color{red}{\text{五度相生}}}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
           <mxGeometry x="100" width="2800" height="600" as="geometry" />
         </mxCell>
         <mxCell id="niPmZzL3U-Xs9_htcvho-0" value="$${\text{E}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="QzwzH5JQvSHsVL7u-Cd5-1" vertex="1">
