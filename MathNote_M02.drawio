@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T09:49:55.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FyG4lymY0B2D3rJQ1VE1" version="20.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-12T03:16:50.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4oF7slU-v-7IBOAY8N0m" version="20.2.3" type="github" pages="7">
   <diagram name="Page-0" id="HVEgXYW5Z1jcdQ3HbvWP">
     <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jAkjb9qOhjbaiIQoaHy9" name="Page-1">
-    <mxGraphModel dx="7680" dy="3580" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,8 +196,91 @@
       <root>
         <mxCell id="Rap0Z1SO3b9VL-MWsds1-0" />
         <mxCell id="Rap0Z1SO3b9VL-MWsds1-1" parent="Rap0Z1SO3b9VL-MWsds1-0" />
-        <mxCell id="Rap0Z1SO3b9VL-MWsds1-5" value="$$\begin{array}{c}\text{貝多芬的給愛麗絲} \left( {\text{Für Elise}} \right) \text{是個a小調的例子}\\ \text{但注意其主音不是第一個出現的聲音}\\ \text{而是貫穿整個主旋律的那個音}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" vertex="1" parent="Rap0Z1SO3b9VL-MWsds1-1">
+        <mxCell id="Rap0Z1SO3b9VL-MWsds1-5" value="$$\begin{array}{c}\text{貝多芬的給愛麗絲} \left( {\text{Für Elise}} \right) \text{是個a小調的例子}\\ \text{但注意其主音不是第一個出現的聲音}\\ \text{而是貫穿整個主旋律的那個音}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="Rap0Z1SO3b9VL-MWsds1-1" vertex="1">
           <mxGeometry x="100" y="200" width="2800" height="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-4" id="uTrEzcfXd9zN4yk6hxYQ">
+    <mxGraphModel dx="7680" dy="4140" grid="1" gridSize="200" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" background="#81D8D0" math="1" shadow="0">
+      <root>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-0" />
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-1" parent="I5U8bTfeIXlskN4UnYWA-0" />
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-2" value="$$\begin{array}{c}{\color{red}{\text{C自然大調}}}{\text{從}}{\color{red}{\text{主音C}}}{\text{按照音高順時針排列}}\\{\text{其音程結構為}}{\color{red}{\text{全全}}}{\color{blue}{\text{半}}}{\color{red}{\text{全全全}}}{\color{blue}{\text{半}}}\\{\color{red}{\text{a自然小調}}}{\text{從}}{\color{red}{\text{主音A}}}{\text{按照音高順時針排列}}\\{\text{其音程結構為}}{\color{red}{\text{全}}}{\color{blue}{\text{半}}}{\color{red}{\text{全全}}}{\color{blue}{\text{半}}}{\color{red}{\text{全全}}}\\{\color{red}{\text{C自然大調}}}{\text{與}}{\color{red}{\text{a自然小調}}}{\text{互為}}{\color{red}{\text{關係調}}}\\{\text{主音不同但音列完全相同}}\end{array}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Noto Serif TC;fontSize=100;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;labelBorderColor=none;spacing=0;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="100" y="200" width="2800" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-3" value="$$\color{black}{\text{C}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="600" y="1300" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-4" value="$$\color{red}{\text{D}\flat\vert\text{C}\sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="850" y="1366.987298" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-5" value="$$\color{blue}{\text{D}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1033.012702" y="1550" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-6" value="$$\color{black}{\text{E}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1100" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-7" value="$$\color{red}{\text{E}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1033.012702" y="2050" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-8" value="$$\color{black}{\text{F}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="850" y="2233.012702" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-9" value="$$\color{red}{\text{G}\flat\vert\text{F}\sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="600" y="2300" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-10" value="$$\color{black}{\text{G}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="350" y="2233.012702" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-11" value="$$\color{blue}{\text{A}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="166.987298" y="2050" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-12" value="$$\color{red}{\text{A}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="100" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-13" value="$$\color{black}{\text{B}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="166.987298" y="1550" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-14" value="$$\color{red}{\text{B}\vert\text{C}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="350" y="1366.987298" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-15" value="$$\color{red}{\text{C}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2000" y="1300" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-16" value="$$\color{red}{\text{G}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2250" y="1366.987298" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-17" value="$$\color{red}{\text{D}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2433.012702" y="1550" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-18" value="$$\color{red}{\text{A}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2500" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-19" value="$$\color{red}{\text{E}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2433.012702" y="2050" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-20" value="$$\color{blue}{\text{B}\vert\text{C}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2250" y="2233.012702" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-21" value="$$\color{black}{\text{G}\flat\vert\text{F}\sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="2000" y="2300" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-22" value="$$\color{black}{\text{D}\flat\vert\text{C}\sharp}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1750" y="2233.012702" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-23" value="$$\color{black}{\text{A}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1566.987298" y="2050" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-24" value="$$\color{black}{\text{E}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1500" y="1800" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-25" value="$$\color{black}{\text{B}\flat}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1566.987298" y="1550" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I5U8bTfeIXlskN4UnYWA-26" value="$$\color{blue}{\text{F}}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Noto Serif TC;fontSize=80;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif%2BTC;" parent="I5U8bTfeIXlskN4UnYWA-1" vertex="1">
+          <mxGeometry x="1750" y="1366.987298" width="400" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -565,7 +648,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BiAqRqppqzg_1BQ-Nap-0" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=10;endFill=1;endSize=50;targetPerimeterSpacing=0;" edge="1" parent="JlGaK3brGIoGGhn7__oq-1">
+        <mxCell id="5BiAqRqppqzg_1BQ-Nap-0" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=10;endFill=1;endSize=50;targetPerimeterSpacing=0;" parent="JlGaK3brGIoGGhn7__oq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2500" y="800" as="sourcePoint" />
             <mxPoint x="2900" y="800" as="targetPoint" />
